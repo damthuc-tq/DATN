@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9497ccd9-1803-475d-a6d3-bb2b71eb5b10" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1p2qjRbHURIuZXIgnaHlDUeRB5J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\missx\Desktop\ServerDATN\server" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\missx\Desktop\ServerDATN\server\views\layout" />
+      <recent name="C:\Users\missx\Desktop\ServerDATN\server\views\error" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9497ccd9-1803-475d-a6d3-bb2b71eb5b10" name="Default Changelist" comment="" />
+      <created>1614391670159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614391670159</updated>
+      <workItem from="1614391673544" duration="5026000" />
+      <workItem from="1614563169803" duration="8651000" />
+      <workItem from="1614587218292" duration="7107000" />
+      <workItem from="1614648998815" duration="18353000" />
+      <workItem from="1614736715634" duration="17719000" />
+      <workItem from="1614822510895" duration="10116000" />
+      <workItem from="1614907782817" duration="14588000" />
+      <workItem from="1614994909729" duration="13793000" />
+      <workItem from="1615173953992" duration="14347000" />
+      <workItem from="1615204989320" duration="2348000" />
+      <workItem from="1615253489397" duration="5313000" />
+      <workItem from="1615259510764" duration="139000" />
+      <workItem from="1615259904029" duration="19000" />
+      <workItem from="1615275697561" duration="116000" />
+      <workItem from="1615539647635" duration="652000" />
+      <workItem from="1615540756950" duration="1226000" />
+      <workItem from="1615600426065" duration="8107000" />
+      <workItem from="1615723165834" duration="7687000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

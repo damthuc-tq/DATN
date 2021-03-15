@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "918993607014",
+    "project_id": "iwash-87c02",
+    "storage_bucket": "iwash-87c02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918993607014:android:95ed5956db3bdd0a2010a7",
+        "android_client_info": {
+          "package_name": "com.example.iwash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918993607014-q53aajgi4gsh8lqhvobgcjl0paaj357r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iwash",
+            "certificate_hash": "d9d2bb3b01053fefe391fd913795cdc2f7d82984"
+          }
+        },
+        {
+          "client_id": "918993607014-n8m7d1rpgcavk0o0pl72hki9149sc8dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnqtnIX0IZdFGZjLPBizFbk7WyD91UAdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918993607014-n8m7d1rpgcavk0o0pl72hki9149sc8dh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
